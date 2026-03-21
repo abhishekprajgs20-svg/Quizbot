@@ -565,6 +565,6 @@ Quizbot/
 
 *Built with ❤️ for educators, exam aspirants, and quiz creators.*
 
-**© 2025 devgagan · Sponsored by Qzio**
+**© 2026 devgagan.in · Sponsored by Qzio**
 
 </div>
