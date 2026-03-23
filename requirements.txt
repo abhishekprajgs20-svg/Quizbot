@@ -13,3 +13,4 @@ sympy
 pycryptodome
 Unidecode
 playwright
+python-telegram-bot
